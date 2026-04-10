@@ -1,0 +1,32 @@
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Python / entorno
+__pycache__/
+*.pyc
+
+# Exports / renders / capturas
+exports/
+output/
+renders/
+recordings/
+captures/
+
+# Cache
+cache/
+temp/
+tmp/
+
+# Logs
+*.log
+
+# Archivos pesados opcionales
+*.mov
+*.mp4
+*.avi
+*.wav
+*.aiff
+
+# Backups opcionales
+*.bak
