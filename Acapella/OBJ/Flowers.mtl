@@ -1,0 +1,24 @@
+# Blender 5.1.1 MTL File: 'Untitled.blend'
+# www.blender.org
+
+newmtl narcissus_opague_1
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd E:/All_Ian_Directories/Projects/Sketchfab/avtandil/content_production_april_22/3d_assets/textures/flowers/narcissus/narcissus_diffuse_transparent.png
+map_Bump -bm 1.000000 E:/All_Ian_Directories/Projects/Sketchfab/avtandil/content_production_april_22/3d_assets/textures/flowers/narcissus/narcissus_normal_transparent.png
+
+newmtl narcissus_transparent_1
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd E:/All_Ian_Directories/Projects/Sketchfab/avtandil/content_production_april_22/3d_assets/textures/flowers/narcissus/narcissus_diffuse_transparent.png
+map_d E:/All_Ian_Directories/Projects/Sketchfab/avtandil/content_production_april_22/3d_assets/textures/flowers/narcissus/narcissus_diffuse_transparent.png
+map_Bump -bm 1.000000 E:/All_Ian_Directories/Projects/Sketchfab/avtandil/content_production_april_22/3d_assets/textures/flowers/narcissus/narcissus_normal_transparent.png
